@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "05ya/C5MsXc=",
+  "dgSpecHash": "Y0apYyw3/kI=",
   "success": true,
   "projectFilePath": "/workspaces/office_doc_converter/PDF4MeConverter/PDF4MeConverter.csproj",
   "expectedPackageFiles": [
@@ -32,8 +32,12 @@
     "/home/codespace/.nuget/packages/microsoft.extensions.options/9.0.10/microsoft.extensions.options.9.0.10.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.extensions.options.configurationextensions/9.0.10/microsoft.extensions.options.configurationextensions.9.0.10.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.extensions.primitives/9.0.10/microsoft.extensions.primitives.9.0.10.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.office.interop.word/15.0.4797.1004/microsoft.office.interop.word.15.0.4797.1004.nupkg.sha512",
+    "/home/codespace/.nuget/packages/polly/8.6.4/polly.8.6.4.nupkg.sha512",
+    "/home/codespace/.nuget/packages/polly.core/8.6.4/polly.core.8.6.4.nupkg.sha512",
     "/home/codespace/.nuget/packages/system.diagnostics.eventlog/9.0.10/system.diagnostics.eventlog.9.0.10.nupkg.sha512",
-    "/home/codespace/.nuget/packages/system.serviceprocess.servicecontroller/9.0.10/system.serviceprocess.servicecontroller.9.0.10.nupkg.sha512"
+    "/home/codespace/.nuget/packages/system.serviceprocess.servicecontroller/9.0.10/system.serviceprocess.servicecontroller.9.0.10.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.threading.channels/10.0.0/system.threading.channels.10.0.0.nupkg.sha512"
   ],
   "logs": []
 }
