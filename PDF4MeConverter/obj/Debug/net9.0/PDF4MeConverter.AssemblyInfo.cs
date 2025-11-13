@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PDF4MeConverter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44f01bb5e3c5cb4ea57b9d458bde1d5bb548325d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18d0915c61c274f442785a5563a69f6449e6445c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PDF4MeConverter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PDF4MeConverter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
